@@ -3,7 +3,7 @@ Portal Reef is a multimodal sensory project with an interactive immersive enviro
 
 ## Links to Our Final Project
 * [Portal Reef Project Link on DevPost Platform](https://devpost.com/software/portal-reef)
-* [Portal Reef Presentation Link](https://docs.google.com/presentation/d/1P_qzSDJ9Yut5M4IDbYuGqu8oaaJngQVn/edit#slide=id.p10)
+* [Portal Reef Presentation Link]([https://docs.google.com/presentation/d/1P_qzSDJ9Yut5M4IDbYuGqu8oaaJngQVn/edit#slide=id.p10](https://docs.google.com/presentation/d/1P_qzSDJ9Yut5M4IDbYuGqu8oaaJngQVn/edit?usp=sharing&ouid=115498708412021760091&rtpof=true&sd=true))
 * [Holenlens Project Recording Link](https://drive.google.com/file/d/1dAEj3fETF-w7o4nyIZmz1bJZxxEobwuS/view?usp=sharing)
 
 ## Team created assets
