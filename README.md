@@ -7,4 +7,4 @@ Portal Reef is a multimodal sensory project with an interactive immersive enviro
 * [Holenlens Project Recording Link]()
 
 ## Team created assets
-* [team created assets]()
+* [Team created assets]()
