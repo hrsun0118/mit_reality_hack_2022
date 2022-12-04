@@ -4,7 +4,7 @@ Portal Reef is a multimodal sensory project with an interactive immersive enviro
 ## Links to Our Final Project
 * [Portal Reef Project Link on VRChat Platform](https://devpost.com/software/portal-reef)
 * [Portal Reef Presentation Link](https://github.com/hrsun0118/Lego-Land-Project-MIT-Reality-Hack-2021/blob/main/Presentation/LegoLand%20Showcase%20Presentation.pptx)
-* [Holenlens Project Recording Link]()
+* [Holenlens Project Recording Link](https://drive.google.com/file/d/1dAEj3fETF-w7o4nyIZmz1bJZxxEobwuS/view?usp=sharing)
 
 ## Team created assets
 * [Team created assets](https://drive.google.com/drive/folders/1SS7V6ZNd3KIDJBRpzsVf-tOJGv8bRMI6?usp=sharing)
